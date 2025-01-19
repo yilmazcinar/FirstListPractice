@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\bin\Debug\net8.0\FirstListPractice.exe
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\bin\Debug\net8.0\FirstListPractice.deps.json
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\bin\Debug\net8.0\FirstListPractice.runtimeconfig.json
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\bin\Debug\net8.0\FirstListPractice.dll
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\bin\Debug\net8.0\FirstListPractice.pdb
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\obj\Debug\net8.0\FirstListPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\obj\Debug\net8.0\FirstListPractice.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\obj\Debug\net8.0\FirstListPractice.AssemblyInfo.cs
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\obj\Debug\net8.0\FirstListPractice.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\obj\Debug\net8.0\FirstListPractice.dll
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\obj\Debug\net8.0\refint\FirstListPractice.dll
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\obj\Debug\net8.0\FirstListPractice.pdb
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\obj\Debug\net8.0\FirstListPractice.genruntimeconfig.cache
+C:\Users\caplo\source\repos\FirstListPractice\FirstListPractice\obj\Debug\net8.0\ref\FirstListPractice.dll
